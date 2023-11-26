@@ -1,0 +1,76 @@
+body {
+    background: #81ecec;
+}
+  
+h1 {
+    color:#6203e0;
+}
+  
+div {
+    width:45%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: white;
+}
+  
+#color1 {
+    flex: 1;
+    background: #e58e26;
+    color:#e58e26;
+}
+  
+#color2 {
+    flex: 1;
+    background: #f9b4ab;
+    color: #f9b4ab;
+}
+  
+#color3 {
+    flex: 1;
+    background: #B1FB17;
+    color: #B1FB17;
+}
+  
+#color4 {
+    flex: 1;
+    background: #78e08f;
+    color: #78e08f;
+}
+  
+#color5 {
+    flex: 1;
+    background: #fd79a8;
+    color: #fd79a8;
+}
+
+#color6 {
+    flex: 1;
+    background: #0000ff;
+    color: #0000ff;
+}
+
+#color7 {
+    flex: 1;
+    background: #ff0000;
+    color:#ff0000;
+}
+
+#color8 {
+    flex:1;
+    background: #cc33cc;
+    color: #cc33cc;
+}
+
+#color9{
+    flex: 1;
+    background: #A8A8A8;
+    color: #A8A8A8;
+}
+
+#color10{
+    flex: 1;
+    background: #9F5F9F;
+    color: #9F5F9F;
+}
